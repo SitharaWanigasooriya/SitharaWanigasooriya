@@ -39,5 +39,5 @@ Senior Software Engineer with 6+ years building **distributed systems and multi-
 
 ### 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sithara-wanigasooriya/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sitharawanigasooriya_)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sithara-wanigasooriya)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://researchgate.net/profile/Sithara-Wanigasooriya-2)
