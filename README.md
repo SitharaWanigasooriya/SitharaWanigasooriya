@@ -2,7 +2,7 @@
 
 Senior Software Engineer with 6+ years building **distributed systems and multi-tenant SaaS platforms**. Backend-focused full stack, currently freelancing on POS & SaaS platform architecture.
 
-- 🔭 Currently building API gateway & multi-tenant SaaS demos (see pinned repos)
+- 🔭 Currently building API gateway & multi-tenant SaaS demos
 - 🛠️ Core stack: **Java / Spring Boot 3+**, Kubernetes, gRPC, Spring Cloud Gateway, OAuth2/JWT
 - 🤖 Also working with: OpenAI GPT API, Google Document AI for AI-assisted automation
 - 📈 Recent wins: 40% latency reduction, 99% uptime on production SaaS systems
